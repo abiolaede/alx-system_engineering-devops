@@ -1,1 +1,1 @@
-This script 0-current-working-directory print the absolute path name of the current working directory
+This is script project to help mastering and help improve way of navigating the bash shell. 
