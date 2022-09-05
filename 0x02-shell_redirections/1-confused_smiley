@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\u0001F615"
+echo -e "\u1F615"
