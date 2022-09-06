@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod -R 744
+
 git add .
 git commit -m "shell expansion"
-git push
+git push --force
